@@ -1,0 +1,3 @@
+[submodule "ece4179_nndl"]
+	path = ece4179_nndl
+	url = https://github.com/evan-tan/ece4179_nndl.git

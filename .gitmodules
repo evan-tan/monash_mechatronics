@@ -4,3 +4,6 @@
 [submodule "ece4076_computer_vision"]
 	path = ece4076_computer_vision
 	url = https://github.com/evan-tan/ece4076_computer_vision.git
+[submodule "ece4078-team2-05"]
+	path = ece4078-team2-05
+	url = https://github.com/evan-tan/ece4078-team2-05.git

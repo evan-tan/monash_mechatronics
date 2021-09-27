@@ -7,3 +7,12 @@
 [submodule "ece4078-team2-05"]
 	path = ece4078-team2-05
 	url = https://github.com/evan-tan/ece4078-team2-05.git
+[submodule "trc3500"]
+	path = trc3500
+	url = https://github.com/evan-tan/trc3500.git
+[submodule "trc3000_self_balancing_robot"]
+	path = trc3000_self_balancing_robot
+	url = https://github.com/evan-tan/trc3000_self_balancing_robot.git
+[submodule "ece3161_design_project"]
+	path = ece3161_design_project
+	url = https://github.com/evan-tan/ece3161_design_project.git

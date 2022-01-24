@@ -1,18 +1,18 @@
 [submodule "ece4179"]
 	path = ece4179
 	url = https://github.com/evan-tan/ece4179.git
-[submodule "ece4076_computer_vision"]
-	path = ece4076_computer_vision
-	url = https://github.com/evan-tan/ece4076_computer_vision.git
+[submodule "ece4076"]
+	path = ece4076
+	url = https://github.com/evan-tan/ece4076.git
 [submodule "ece4078-team2-05"]
 	path = ece4078-team2-05
 	url = https://github.com/evan-tan/ece4078-team2-05.git
 [submodule "trc3500"]
 	path = trc3500
 	url = https://github.com/evan-tan/trc3500.git
-[submodule "trc3000_self_balancing_robot"]
-	path = trc3000_self_balancing_robot
-	url = https://github.com/evan-tan/trc3000_self_balancing_robot.git
-[submodule "ece3161_design_project"]
-	path = ece3161_design_project
-	url = https://github.com/evan-tan/ece3161_design_project.git
+[submodule "trc3000"]
+	path = trc3000
+	url = https://github.com/evan-tan/trc3000.git
+[submodule "ece3161"]
+	path = ece3161
+	url = https://github.com/evan-tan/ece3161.git

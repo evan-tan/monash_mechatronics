@@ -14,5 +14,5 @@
 	path = trc3000_self_balancing_robot
 	url = https://github.com/evan-tan/trc3000_self_balancing_robot.git
 [submodule "ece3161_design_project"]
-	path = ece3161_design_project
+	path = ece3161
 	url = https://github.com/evan-tan/ece3161_design_project.git

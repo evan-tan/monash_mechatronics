@@ -1,6 +1,6 @@
-[submodule "ece4179_nndl"]
+[submodule "ece4179"]
 	path = ece4179
-	url = https://github.com/evan-tan/ece4179_nndl.git
+	url = https://github.com/evan-tan/ece4179.git
 [submodule "ece4076_computer_vision"]
 	path = ece4076_computer_vision
 	url = https://github.com/evan-tan/ece4076_computer_vision.git

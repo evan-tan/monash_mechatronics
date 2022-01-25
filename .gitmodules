@@ -16,3 +16,9 @@
 [submodule "ece3161"]
 	path = ece3161
 	url = https://github.com/evan-tan/ece3161.git
+[submodule "sumo-rl"]
+	path = sumo-rl
+	url = https://github.com/evantancy/sumo-rl
+[submodule "ece3141"]
+	path = ece3141
+	url = https://github.com/evantancy/ece3141
